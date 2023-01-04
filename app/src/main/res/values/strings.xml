@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">newsapp</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_details">Details</string>
+    <string name="title_main">Main</string>
+    <string name="hello_blank_fragment">Splash fragment</string>
+    <string name="title_search" />
+    <string name="search_fragment">Search Fragment</string>
+    <string name="popular_news">popular news</string>
+    <string name="description">Description</string>
+    <string name="visit_site">visit site</string>
+</resources>
